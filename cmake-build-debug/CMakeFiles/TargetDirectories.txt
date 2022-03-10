@@ -1,0 +1,3 @@
+G:/project/C/Discount calculation program for the store/cmake-build-debug/CMakeFiles/Discount_calculation_program_for_the_store.dir
+G:/project/C/Discount calculation program for the store/cmake-build-debug/CMakeFiles/edit_cache.dir
+G:/project/C/Discount calculation program for the store/cmake-build-debug/CMakeFiles/rebuild_cache.dir
